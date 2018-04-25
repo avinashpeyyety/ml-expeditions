@@ -12,7 +12,7 @@ distance_map = ndimage.distance_transform_edt(image)
 plt.imshow(distance_map) 
 display()
 
-# Create a chess board in numpy
+# Plot a chess board in numpy
 import numpy as np
 import matplotlib.pyplot as plt
 check = np.zeros((1000, 1000))
@@ -21,7 +21,7 @@ check[1::2, ::2] = 1
 plt.imshow(check, cmap='gray', interpolation='nearest') 
 display()
 
-# Plotting a dataset
+# Plotting an on-the-fly array
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -46,3 +46,19 @@ df.plot(kind='scatter',
 plt.legend()
 plt.show()
 display()
+
+# Plot an on-the-fly dataframe
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+plt.clf()
+df1 = pd.DataFrame(np.random.randn(12,6), index=list(range(0,24,2)), columns=list('abcdef'))
+df1.head()
+df1.describe()
+df1.info()
+df1.hist(bins=10, figsize=(10,5))
+display()
+df2 = df1.iloc[:, :]
+df2.plot(x='c', y='d', kind='bar', rot=40)
+display()
+plt.close()
