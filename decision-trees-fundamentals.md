@@ -1,4 +1,4 @@
-<Decision Trees>
+#Decision Trees:
 
 Decision Trees is another Supervised Learning method used for Classification and Regression. Decision Trees learn simple decision rules from training data and build a Model. DecisionTreeClassifier and DecisionTreeRegressor are the two utilities from sklearn.tree, which can be used for classification and regression respectively.
 
