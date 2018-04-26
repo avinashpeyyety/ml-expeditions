@@ -2,19 +2,16 @@
 
 ## **Define scope of business case:**
 * Open Domain or Closed Domain? - Closed
-* B2C Services or B2B Operations? - B2B
-* B2C improvement by Auto Query Handling (Trains on H2H conv history) or Information Retrieval (Trains on Info Map)? - NA
-* B2B improvement by Knowledge Retrieval or AI Generation ? - Knowledge Retrieval
 * Retrieval (Q&A Capability) or Generative (Dialectic Capability - AI)? - Retrieval
-* Knowledge Retrival on Concepts or Metrics ? - 
+* Retrieval System for B2C or B2B? - B2B (If B2C suggest Information Retrieval System)
+* Information or Knowledge Retrieval - Knowledge (If Information Retrieval make non-NLP chatbot)
+* Knowledge as Concepts or Metrics ? - Concepts (If Metrics use NLP with NMT + ML Modeling)
 
 ## **Prediction problems:**
 * define Regression problem:
 * demonstrate capability of Machine Learning to solve regression:
 * define Classification problem:
 * demonstrate capability of Machine Learning to solve classification:
-* define Clustering problem:
-* demonstrate capability of Machine Learning to solve Clustering:
 * define NLP problem: 
 * demonstrate capability of deep learning to solve NLP:
 
