@@ -2,10 +2,11 @@
 
 ## **Define scope of business case:**
 * Open Domain or Closed Domain? - Closed
-* Goal - Improve B2C Services or B2B Operations - B2B
-* B2C improvement with User Query Handling or Information Retrieval or Targeted Reccomendations ? - NA
-* B2B improvement with Information Retrieval or Knowledge Retrieval or AI Generation ? - Information & Knowledge Retrieval
-* Retrieval (Q&A Capability - Info & Knowledge) or Generative (Dialectic Capability - AI)? - Retrieval
+* B2C Services or B2B Operations? - B2B
+* B2C improvement by Auto Query Handling (Trains on H2H conv history) or Information Retrieval (Trains on Info Map)? - NA
+* B2B improvement by Knowledge Retrieval or AI Generation ? - Knowledge Retrieval
+* Retrieval (Q&A Capability) or Generative (Dialectic Capability - AI)? - Retrieval
+* Knowledge Retrival on Concepts or Metrics ? - 
 
 ## **Prediction problems:**
 * define Regression problem:
