@@ -21,9 +21,9 @@
 ### Glossary
 * **NMT:** Neural Machine Translation
 
-* **NMT:** Natural Language Processing
+* **NLP:** Natural Language Processing
 
-* **NMT:** Recurrent Neural Networks
+* **RNN:** Recurrent Neural Networks
 
 * **Retrieval-Based vs. Generative Models:**
 Retrieval-based models (easier) use a repository of predefined responses and some kind of heuristic to pick an appropriate response based on the input and context. The heuristic could be as simple as a rule-based expression match, or as complex as an ensemble of Machine Learning classifiers. These systems don’t generate any new text, they just pick a response from a fixed set.
