@@ -6,18 +6,18 @@
 * Rule engine based retrieval system or prediction retrival system ? - Prediction
 
 2. prediction problems:
-> define Regression problem:
-demonstrate capability of Machine Learning to solve regression:
-define Classification problem:
-demonstrate capability of Machine Learning to solve classification:
-define Clustering problem:
-demonstrate capability of Machine Learning to solve Clustering:
-define NLP problem:
-demonstrate capability of deep learning to solve NLP:
+* define Regression problem:
+* demonstrate capability of Machine Learning to solve regression:
+* define Classification problem:
+* demonstrate capability of Machine Learning to solve classification:
+* define Clustering problem:
+* demonstrate capability of Machine Learning to solve Clustering:
+* define NLP problem:
+* demonstrate capability of deep learning to solve NLP:
 
 
-Glossary
-Retrieval-Based vs. Generative Models:
+## Glossary
+* **Retrieval-Based vs. Generative Models:**
 Retrieval-based models (easier) use a repository of predefined responses and some kind of heuristic to pick an appropriate response based on the input and context. The heuristic could be as simple as a rule-based expression match, or as complex as an ensemble of Machine Learning classifiers. These systems don’t generate any new text, they just pick a response from a fixed set.
 Generative models (harder) don’t rely on pre-defined responses. They generate new responses from scratch. Generative models are typically based on Machine Translation techniques, but instead of translating from one language to another, we “translate” from an input to an output (response).
 But why would you want to build a retrieval-based model if you can build a generative model? Generative models seem more flexible because they don’t need this repository of predefined responses, right?
