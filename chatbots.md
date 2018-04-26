@@ -45,6 +45,7 @@ A common problem with generative systems is that they tend to produce generic re
 * **Attention and Memory:**
 
 **References :**
+
 http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
 http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
 http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
