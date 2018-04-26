@@ -1,22 +1,30 @@
 # Chatbots
 
-## **Define scope of business case:**
+## **Define scope of Business Case:**
 * Open Domain or Closed Domain? - Closed
-* Retrieval (Q&A Capability) or Generative (Dialectic Capability - AI)? - Retrieval
-* Retrieval System for B2C or B2B? - B2B (If B2C suggest Information Retrieval System)
-* Information or Knowledge Retrieval - Knowledge (If Information Retrieval make non-NLP chatbot)
-* Knowledge as Concepts or Metrics ? - Concepts (If Metrics use NLP with NMT + ML Modeling)
+* Retrieval (Q&A Capability - Knowledge) or Generative (Dialectic Capability - Intelligence)? - Retrieval
+* Retrieval System for B2C or B2B? - B2B 
+* Information or Knowledge Retrieval? - Knowledge (If Information Retrieval make non-NMT Rule-Engine)
+* Knowledge as Concepts or Predictions? - Concepts (If Predictions make non-NMT ML model)
 
-## **Prediction problems:**
-* define Regression problem:
-* demonstrate capability of Machine Learning to solve regression:
-* define Classification problem:
-* demonstrate capability of Machine Learning to solve classification:
-* define NLP problem: 
-* demonstrate capability of deep learning to solve NLP:
+## **Concept Demo:**
+* Define a Prediction problem.
+* Demonstrate capability of Machine Learning to solve prediction.
+* Define an NMT problem.
+* Demonstrate the capability of a Deep Learning RNN to solve NMT.
+* Define an NLP problem.
+* Demonstrate capability of Deep Learning RNN to solve NLP.
+
+## **Prototype Demo:**
 
 
 ### Glossary
+* **NMT:** Neural Machine Translation
+
+* **NMT:** Natural Language Processing
+
+* **NMT:** Recurrent Neural Networks
+
 * **Retrieval-Based vs. Generative Models:**
 Retrieval-based models (easier) use a repository of predefined responses and some kind of heuristic to pick an appropriate response based on the input and context. The heuristic could be as simple as a rule-based expression match, or as complex as an ensemble of Machine Learning classifiers. These systems don’t generate any new text, they just pick a response from a fixed set.
 Generative models (harder) don’t rely on pre-defined responses. They generate new responses from scratch. Generative models are typically based on Machine Translation techniques, but instead of translating from one language to another, we “translate” from an input to an output (response).
