@@ -1,13 +1,13 @@
 # Chatbots
 
-1. **Define scope of business case:**
+## **Define scope of business case:**
 * Open Domain or Closed Domain? - Closed
 * Goal - Improve B2C Services or B2B Operations - B2B
 * B2C improvement with User Query Handling or Information Retrieval or Targeted Reccomendations ? - NA
 * B2B improvement with Information Retrieval or Knowledge Retrieval or AI Generation ? - Information & Knowledge Retrieval
 * Retrieval (Q&A Capability - Info & Knowledge) or Generative (Dialectic Capability - AI)? - Retrieval
 
-2. **Prediction problems:**
+## **Prediction problems:**
 * define Regression problem:
 * demonstrate capability of Machine Learning to solve regression:
 * define Classification problem:
