@@ -1,21 +1,16 @@
 # Enterprise Applications of Machine Learning
 
-## Sales Optimization - Retail
-* Recommendation Systems - ML
-* Process Optimization - ML 
-* User Profiling - ML - Classifying new users for sales potential based on learning behaviour patterns from existing user history.
-* KPI Forecasting - ML - Geographical visualization of projections for new locations based on learnings from existing locations.
+## Sales & Service Optimization - Retail, Finance, Telecom
+* Anamoly Detection - ML - Detect Anamolies in transactions.
 * Chatbots - AI/ML- Q&A or dialogue agents to service customer queries on products.
-* Association Rule Mining - ML - Finding the relation ship between various items that sell together often. Items that appear to be going to cart together most often can be grouped together.
-* Anamoly Detection - ML - 
-
-## Service Optimization -  Finance, Telecom
-* Anamoly Detection - ML - 
-* Chatbots - AI/ML
-* Process Optimization - ML
+* Feature Testing - ML - Experiment with new product features and predict potential and viability.
+* KPI forecasting - ML - Tracking and forecasting key business metrics.
+* Market Research - ML - Identify business potential for new locations/segment.
+* Recommendation Systems - ML - Cluster similar products together and maximize sale potential.
+* Customer Profiling - ML - Classifying new customers based on standard features and predict sales potential.
 
 ## System Optimization - Science, Engineering, Manufacturing
-* Anamoly Detection - ML
-* Process Optimization - ML
-* Association Rule Learning - ML
-
+* Anamoly Detection - ML - Detect Anamolies in transactions.
+* Chatbots - AI/ML- Q&A or dialogue agents to service as knowledge resource.
+* KPI forecasting - ML - Tracking and forecasting key system metrics.
+* Process Automation - ML - Deploy agent to identify key events and initiate action.
